@@ -1,3 +1,3 @@
-module module2
+module gomodule
 
 require github.com/stretchr/testify v1.3.0
